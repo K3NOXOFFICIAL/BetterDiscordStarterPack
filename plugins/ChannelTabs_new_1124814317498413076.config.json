@@ -1,0 +1,123 @@
+{
+    "settings": {
+        "tabs": [
+            {
+                "name": "#main-chat",
+                "url": "/channels/1147244348124180562/1147244348589752375",
+                "selected": true,
+                "currentStatus": "none",
+                "iconUrl": "https://cdn.discordapp.com/icons/1147244348124180562/c1dd53798e85300c20ff54350565b046.webp?size=40",
+                "channelId": "1147244348589752375"
+            }
+        ],
+        "favs": [
+            {
+                "name": "Log",
+                "iconUrl": "https://cdn.discordapp.com/icons/1147244348124180562/c1dd53798e85300c20ff54350565b046.webp?",
+                "url": "/channels/1147244348124180562/1182388694703939724",
+                "channelId": "1182388694703939724",
+                "groupId": 0
+            },
+            {
+                "name": "VIP Chat",
+                "iconUrl": "https://cdn.discordapp.com/icons/1147244348124180562/c1dd53798e85300c20ff54350565b046.webp?",
+                "url": "/channels/1147244348124180562/1156270614198374480",
+                "channelId": "1156270614198374480",
+                "groupId": 0
+            },
+            {
+                "name": "VIP Lounge",
+                "iconUrl": "https://cdn.discordapp.com/icons/1147244348124180562/c1dd53798e85300c20ff54350565b046.webp?",
+                "url": "/channels/1147244348124180562/1156270671802933278",
+                "channelId": "1156270671802933278",
+                "groupId": 0
+            },
+            {
+                "name": "Main Chat",
+                "iconUrl": "https://cdn.discordapp.com/icons/1147244348124180562/c1dd53798e85300c20ff54350565b046.webp?",
+                "url": "/channels/1147244348124180562/1147244348589752375",
+                "channelId": "1147244348589752375",
+                "groupId": 0
+            },
+            {
+                "name": "Loops",
+                "iconUrl": "https://cdn.discordapp.com/icons/1147244348124180562/c1dd53798e85300c20ff54350565b046.webp?",
+                "url": "/channels/1147244348124180562/1147244348589752377",
+                "channelId": "1147244348589752377",
+                "groupId": 0
+            },
+            {
+                "name": "Liiquit",
+                "iconUrl": "https://cdn.discordapp.com/avatars/206496505274695680/8fa2e84fc85496e4230afbdf33c24a74.webp?size=4096",
+                "url": "/channels/@me/1160359105467265045",
+                "channelId": "1160359105467265045",
+                "groupId": 1
+            },
+            {
+                "name": "MO",
+                "iconUrl": "https://cdn.discordapp.com/avatars/1147056231517802527/7da09f229b42e3e272e25f7f79ccf527.webp?size=4096",
+                "url": "/channels/@me/1147125740161224735",
+                "channelId": "1147125740161224735",
+                "groupId": 1
+            },
+            {
+                "name": "Amon",
+                "iconUrl": "https://cdn.discordapp.com/avatars/308652501819981825/99645da941a808f0fb322cf2d690b4a2.webp?size=4096",
+                "url": "/channels/@me/1147239097623134239",
+                "channelId": "1147239097623134239",
+                "groupId": 1
+            },
+            {
+                "name": "Kevin",
+                "iconUrl": "https://cdn.discordapp.com/avatars/391512600023924738/d771918ceb0dbfaab0b6783c4145f9df.webp?size=4096",
+                "url": "/channels/@me/1147256744859410534",
+                "channelId": "1147256744859410534",
+                "groupId": 1
+            },
+            {
+                "name": "OMG",
+                "iconUrl": "https://cdn.discordapp.com/avatars/815993446933987364/a91a7dbc0f5c25a8fcd41fb2e32a97f5.webp?size=4096",
+                "url": "/channels/@me/1177497371203096617",
+                "channelId": "1177497371203096617",
+                "groupId": 1
+            }
+        ],
+        "favGroups": [
+            {
+                "name": "WealthMafia",
+                "groupId": 0
+            },
+            {
+                "name": "Friends",
+                "groupId": 1
+            }
+        ],
+        "showTabBar": true,
+        "showFavBar": true,
+        "reopenLastChannel": false,
+        "showFavUnreadBadges": true,
+        "showFavMentionBadges": true,
+        "showFavTypingBadge": true,
+        "showEmptyFavBadges": false,
+        "showTabUnreadBadges": true,
+        "showTabMentionBadges": true,
+        "showTabTypingBadge": true,
+        "showEmptyTabBadges": false,
+        "showActiveTabUnreadBadges": false,
+        "showActiveTabMentionBadges": false,
+        "showActiveTabTypingBadge": false,
+        "showEmptyActiveTabBadges": false,
+        "compactStyle": false,
+        "privacyMode": false,
+        "radialStatusMode": false,
+        "tabWidthMin": 100,
+        "showFavGroupUnreadBadges": true,
+        "showFavGroupMentionBadges": true,
+        "showFavGroupTypingBadge": true,
+        "showEmptyFavGroupBadges": false,
+        "showQuickSettings": true,
+        "showNavButtons": true,
+        "alwaysFocusNewTabs": false,
+        "useStandardNav": true
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "version": "1.9.7",
+    "drawerStates": {
+        "settings": {
+            "window": true,
+            "customcss": false,
+            "developer": false,
+            "editor": false,
+            "general": false,
+            "addons": false
+        }
+    },
+    "addonlistControls": {
+        "plugin": {
+            "sort": "name",
+            "ascending": true
+        }
+    }
+}

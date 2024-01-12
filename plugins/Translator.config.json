@@ -1,0 +1,49 @@
+{
+	"all": {
+		"authKeys": {
+			"deepl": {
+				"key": "8cc97d3b-8d99-1a54-3262-185f3e117d4b:fx"
+			}
+		},
+		"channelLanguages": {
+			"1177497371203096617": {
+				"received": {
+					"input": "auto",
+					"output": "en"
+				}
+			}
+		},
+		"choices": {
+			"received": {
+				"input": "auto",
+				"output": "en"
+			},
+			"sent": {
+				"input": "auto",
+				"output": "ru"
+			}
+		},
+		"engines": {
+			"backup": "googleapi",
+			"translator": "deepl"
+		},
+		"exceptions": {
+			"wordStart": [
+				"!"
+			]
+		},
+		"favorites": [
+			"ja",
+			"ru"
+		],
+		"general": {
+			"addTranslateButton": true,
+			"sendOriginalMessage": false,
+			"showOriginalMessage": false,
+			"usePerChatTranslation": true
+		},
+		"translationEnabledStates": [
+			"1177497371203096617"
+		]
+	}
+}

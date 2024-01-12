@@ -1,0 +1,47 @@
+{
+	"all": {
+		"changeLogs": {
+			"BDFDB": "3.5.9",
+			"BetterFriendList": "1.5.0",
+			"BetterSearchPage": "1.2.4",
+			"ClickableMentions": "1.0.6",
+			"CustomStatusPresets": "1.1.5",
+			"EditUsers": "4.8.6",
+			"ForceImagePreviews": "1.2.0",
+			"GameActivityToggle": "1.1.8",
+			"GoogleSearchReplace": "1.3.4",
+			"ImageUtilities": "5.4.0",
+			"MessageUtilities": "1.9.7",
+			"NotificationSounds": "3.8.8",
+			"OldTitleBar": "1.8.1",
+			"PinDMs": "2.0.3",
+			"PluginRepo": "2.5.5",
+			"QuickMention": "1.0.5",
+			"ReadAllNotificationsButton": "1.7.5",
+			"RemoveNicknames": "1.4.3",
+			"RevealAllSpoilers": "1.1.0",
+			"ServerDetails": "1.1.4",
+			"ShowBadgesInChat": "2.0.4",
+			"ShowConnections": "1.1.9",
+			"SplitLargeMessages": "1.8.1",
+			"SpotifyControls": "1.3.9",
+			"StaffTag": "1.6.0",
+			"ThemeRepo": "2.5.5",
+			"Translator": "2.6.1",
+			"WriteUpperCase": "1.3.8"
+		},
+		"choices": {
+			"toastPosition": "right"
+		},
+		"general": {
+			"shareData": true,
+			"showToasts": true,
+			"showSupportBadges": false,
+			"useChromium": false
+		},
+		"hashes": {
+			"0BDFDB.data.json": "3e036123d2bd75d2710811a734275fa43f95c8bd",
+			"0BDFDB.raw.css": "8c083e2a87a82aded5f3b2e27fb8b2f816b5f74a"
+		}
+	}
+}
