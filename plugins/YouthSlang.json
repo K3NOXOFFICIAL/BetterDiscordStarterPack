@@ -1,0 +1,36 @@
+{
+    "LANGUAGE_NAME": "English Youth Slang",
+    "LANGUAGE_AUTHOR": "K3NOXOFFICIAL",
+    "LANGUAGE_TRANSLATOR": "K3NOXOFFICIAL",
+    "LANGUAGE_VERSION": "1.0.0",
+    "LANGUAGE_DESCRIPTION": "A language pack that translates text into English youth slang.",
+    "LANGUAGE_TRANSLATIONS": {
+      "Add Friend": "Add BFF",
+      "Block": "Ghost",
+      "Cancel": "Nah",
+      "Copy ID": "Copy My Digits",
+      "Create Invite": "Make a Link",
+      "Delete": "Yeet",
+      "Edit Channel": "Fix Up",
+      "Invite People": "Bring the Squad",
+      "Join Server": "Slide into the Group",
+      "Kick": "Boot",
+      "Leave Server": "Dip Out",
+      "Mark as Read": "Read It",
+      "Mute": "Silence",
+      "Nickname": "Alias",
+      "Paste": "Send It",
+      "Pin": "Stick It",
+      "Privacy Settings": "Stay Lowkey",
+      "Remove Friend": "Un-BFF",
+      "Report": "Snitch",
+      "Search": "Stalk",
+      "Send Message": "Slide into DMs",
+      "Server Settings": "Group Chat Settings",
+      "Unmute": "Un-Silence",
+      "User Settings": "My Profile",
+      "Voice Settings": "Talkin' Settings",
+      "View Profile": "Stalk My Profile"
+    }
+  }
+  
